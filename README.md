@@ -24,6 +24,6 @@ Example Input (island_2.txt):
 0 1 1 1 0
 0 0 0 0 0
 
-Example output:
+Example output(areas.txt):
 Perimeter: 12
 
