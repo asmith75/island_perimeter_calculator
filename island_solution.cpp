@@ -4,7 +4,11 @@
 
 using namespace std;
 
-// calcs perimeter of island and return perimeter
+/*
+* calcualtes perimeter for island
+* @param grid consist of 0s represents water and 1s represents 
+* @return perimeter of island as unsigned int
+*/
 int calc_perimeter(const vector<vector<unsigned int>>& grid) {
 	int perimeter = 0;
 	size_t rows = grid.size();
